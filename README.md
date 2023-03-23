@@ -1,2 +1,2 @@
-# Power-BI-
-Power BI Learning
+# Power-BI
+Power BI
